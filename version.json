@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/windy7/clip-sender/releases/download/v1.0.1/clip-sender.exe",
-  "sha256": "06ee97b0c73760c4ec3ae5607793bc500443de21d7daee2eab799a1e01a0f65c",
-  "notes": "켤 때 자동 업데이트, 새 버전 확인 주기 단축"
+  "version": "1.0.2",
+  "url": "https://github.com/windy7/clip-sender/releases/download/v1.0.2/clip-sender.exe",
+  "sha256": "0c8aa75432d6243b1a8b987305f7f161b94b9358b7bd4fc7ed86c67e4817e21c",
+  "notes": "같은 ZIP을 다시 넣으면 새로 가져올지 물어보기"
 }

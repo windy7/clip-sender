@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
   "url": "https://github.com/windy7/clip-sender/releases/download/v1.0.1/clip-sender.exe",
-  "sha256": "e675f8f3fb658d2a5ca202e5927015e3a15ab3d55c12ea6f830b8f5439f878e1",
-  "notes": "이미 가져온 ZIP 안내, 삭제 후 다시 가져오기, 새 버전 안내 개선"
+  "sha256": "06ee97b0c73760c4ec3ae5607793bc500443de21d7daee2eab799a1e01a0f65c",
+  "notes": "켤 때 자동 업데이트, 새 버전 확인 주기 단축"
 }
